@@ -1,0 +1,157 @@
+body {
+
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+h1 {
+
+    font-size: 50px;
+}
+
+
+
+.click-button {
+
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(skyblue, blue);
+    border-radius: 5px;
+    color: rgb(249, 243, 237);
+    font-weight: 400;
+
+
+}
+
+
+
+.center {
+    background-image: url(donation13.jpg);
+    background-repeat: no-repeat;
+    text-align: center;
+    color: aliceblue;
+    padding: 150px;
+    background-position: center;
+    background-size: cover;
+}
+
+.text-size {
+
+    text-align: center;
+    color: black;
+    padding-top: 70px;
+}
+
+.Line {
+    display: flex;
+
+    margin-left: 300px;
+
+}
+
+.last-change {
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px red;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+}
+
+.change2 {
+    background-image: linear-gradient(skyblue, blue);
+    border-left: blueviolet;
+    padding: 20px;
+
+
+}
+
+.shape {
+
+    padding: 5%;
+
+    width: 50%;
+
+}
+
+.flexible-line {
+
+    display: flex;
+    margin-bottom: 90px;
+}
+
+.shape1 {
+    padding-left: 10px;
+
+
+    width: 100%;
+
+}
+
+.last-change {
+    border-radius: 70px;
+    box-shadow: 10px 10px 40px red;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+.last-change1 {
+    border-radius: 70px;
+    box-shadow: 10px 10px 40px blueviolet;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+.last-change2 {
+    border-radius: 70px;
+    box-shadow: 10px 10px 40px blue;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+.taz {
+
+    color: blueviolet;
+}
+
+
+
+.click-button1 {
+
+    text-decoration: none;
+
+    background-image: linear-gradient(skyblue, blue);
+    border-radius: 5px;
+    color: rgb(249, 243, 237);
+    font-weight: 300;
+    padding: 3px;
+
+}
+
+.last-change3 {
+
+    background-color: pink;
+    margin-left: 20%;
+    margin-right: 20%;
+
+
+}
+
+.done {
+
+    background-color: black;
+}
+
+.color3 {
+    padding-top: 30px;
+    text-align: center;
+    color: brown;
+}
+
+.color4 {
+    color: aliceblue;
+    text-align: center;
+
+}
